@@ -4,4 +4,5 @@ module.exports = withYaml({
   images: {
     domains: ["screenshotapi-dot-net.storage.googleapis.com"],
   },
+  ignoreBuildErrors: true,
 });
