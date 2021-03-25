@@ -1,0 +1,69 @@
+react:
+  name: React
+  color: lightblue
+  icon: fa-brands:react
+  description: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tristique
+    ultricies pellentesque non orci nisl. Vitae at faucibus neque,
+    mauris enim, fermentum.
+  projects:
+    - barnsby
+    - baldr
+    - resume
+
+javascript:
+  name: JavaScript
+  color: yellow
+  icon: fa-brands:js-square
+  description: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tristique
+    ultricies pellentesque non orci nisl. Vitae at faucibus neque,
+    mauris enim, fermentum.
+  projects:
+    - barnsby
+vue:
+  name: Vue
+  color: green
+  icon: fa-brands:vuejs
+  description: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tristique
+    ultricies pellentesque non orci nisl. Vitae at faucibus neque,
+    mauris enim, fermentum.
+  projects:
+    - barnsby
+next:
+  name: Next Js
+  color: gray
+  icon: cib:next-js
+  description: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tristique
+    ultricies pellentesque non orci nisl. Vitae at faucibus neque,
+    mauris enim, fermentum.
+  projects:
+    - barnsby
+    - baldr
+    - resume
+typescript:
+  name: TypeScript
+  color: blue
+  icon: simple-icons:typescript
+  description: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tristique
+    ultricies pellentesque non orci nisl. Vitae at faucibus neque,
+    mauris enim, fermentum.
+  projects:
+    - baldr
+    - resume
+    - barnsby
+html:
+  name: HTML
+  color: blue
+  icon: fa-brands:html5
+  description: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tristique
+    ultricies pellentesque non orci nisl. Vitae at faucibus neque,
+    mauris enim, fermentum.
+  projects:
+    - barnsby
+    - baldr
+    - resume

@@ -1,0 +1,15 @@
+barnsby:
+  name: Barnsby Consulting
+  url: https://www.barnsby.nl
+  color: "#83CA04"
+  github: https://github.com/elmarvr/barnsby
+baldr:
+  name: Dispuut Baldr (WIP)
+  url: https://dispuutbaldr.netlify.app
+  color: "#6d1515"
+  github: https://github.com/elmarvr/baldr
+resume:
+  name: Mijn online CV
+  url: http://localhost:3000
+  color: "#C06009"
+  github:
