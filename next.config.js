@@ -4,7 +4,7 @@ module.exports = withYaml({
   images: {
     domains: ["screenshotapi-dot-net.storage.googleapis.com"],
   },
-  typscript: {
+  typescript: {
     ignoreBuildErrors: true,
   },
 });
